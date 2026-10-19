@@ -1,0 +1,13 @@
+# pure java classes taken from the jdk, renamed into the shim packages
+java/awt/geom/*
+sun/awt/geom/*
+java/awt/Point.java
+java/awt/Dimension.java
+java/awt/Rectangle.java
+java/awt/Insets.java
+java/awt/Polygon.java
+java/awt/Shape.java
+java/awt/Stroke.java
+java/awt/Paint.java
+java/awt/Transparency.java
+java/awt/Composite.java
